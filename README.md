@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Waqas Khan</h1>
 
-Hi, I'm **Sana Ullah**, a third-semester Information Technologu student pursuing my Bachelor's degree at **Agriculture University  Peshawar**, with a focus on **Full-Stack Web Development**. Over the past year, I have developed skills in **HTML5, CSS3, Bootstrap 5, Tailwind CSS, JavaScrip*, and **React.js**. Currently, I'm expanding my backend knowledge with **Node.js**, and **MySQL**, working towards becoming a full-stack developer.
+Hi, I'm **Sana Ullah**, a third-semester Information Technology student pursuing my Bachelor's degree at **Agriculture University  Peshawar**, with a focus on **Full-Stack Web Development**. Over the past year, I have developed skills in **HTML5, CSS3, Bootstrap 5, Tailwind CSS, JavaScrip*, and **React.js**. Currently, I'm expanding my backend knowledge with **Node.js**, and **MySQL**, working towards becoming a full-stack developer.
 
 I'm looking to collaborate on innovative projects in the web development and tech industry.
 
