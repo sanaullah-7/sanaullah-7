@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sana Ullah</h1>
 
-Hi, I'm **Sana Ullah**, a third-semester Information Technology student pursuing my Bachelor's degree at **Agriculture University  Peshawar**, with a focus on **Full-Stack Web Development**. Over the past year, I have developed skills in **HTML5, CSS3, Bootstrap 5, Tailwind CSS, JavaScrip*, and **React.js**. Currently, I'm expanding my backend knowledge with **Node.js**, and **MySQL**, working towards becoming a full-stack developer.
+Hi, I'm **Sana Ullah**, a third-semester Information Technology student pursuing my Bachelor's degree at **Agriculture University  Peshawar**, with a focus on **Full-Stack Web Development**. Over the past year, I have developed skills in **HTML5, CSS3, Bootstrap 5, Tailwind CSS, JavaScrip*, and **React.js**. Currently, I'm expanding my backend knowledge with **Node.js**, and **MongoDB**, working towards becoming a full-stack developer.
 
 I'm looking to collaborate on innovative projects in the web development and tech industry.
 
@@ -19,21 +19,7 @@ I'm looking to collaborate on innovative projects in the web development and tec
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
   <img width="8" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img width="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  <img width="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img width="8" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/>
-  <img width="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img width="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img width="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img width="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-
+  <img width="8" 
 </p>
 
 ---
@@ -41,7 +27,7 @@ I'm looking to collaborate on innovative projects in the web development and tec
 ## 📞 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/waqas-khan-a68602343/" target="_blank" >
+  <a href="https://www.linkedin.com/in/sana-ullah-072016331/" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/sanaullah-7" target="_blank">
