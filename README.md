@@ -19,7 +19,7 @@ I'm looking to collaborate on innovative projects in the web development and tec
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
   <img width="8" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  ![React](https://img.shields.io/badge/Build%20With-HTML%20%7C%20CSS%20%7C%20JS-blue?style=for-the-badge&logo=react)
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img width="8" 
 </p>
 
